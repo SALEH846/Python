@@ -1,2 +1,5 @@
 ## Making web applications in Pyhton using streamlit
-To run streamlit web apps in your browser type the following command in your terminal/command prompt.
+To run streamlit web apps in your browser, type the following command in your terminal/command prompt.
+```
+steamlit run <path to application>
+```
