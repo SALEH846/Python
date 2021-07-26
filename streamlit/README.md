@@ -3,3 +3,7 @@ To run streamlit web apps in your browser, type the following command in your te
 ```
 steamlit run <path to application>
 ```
+For example:
+```
+streamlit run app01.py
+```
